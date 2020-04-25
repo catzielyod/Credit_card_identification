@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6a2c78a-bdd4-435b-8a80-d869cc8c3d7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3de02b99-0a76-4029-830a-634134152a9f" />
+  <component name="ProjectId" id="1aqeQzPC5hLbrjHB5DkPEN2XFdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.credit_card_identification">
+    <configuration name="credit_card_identification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Credit card identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ratziel\AppData\Local\Programs\Python\Python37\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credit card identification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pro_Credit_card_identification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Credit card identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py/pycharm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../py/pycharm/pro_Credit_card_identification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.credit_card_identification" />
+        <item itemvalue="Python.pro_Credit_card_identification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a2c78a-bdd4-435b-8a80-d869cc8c3d7d" name="Default Changelist" comment="" />
+      <created>1587467538852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587467538852</updated>
+      <workItem from="1587467541415" duration="52000" />
+      <workItem from="1587467610383" duration="2619000" />
+      <workItem from="1587709656009" duration="10227000" />
+      <workItem from="1587720034166" duration="176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587469549852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="267" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587469549852" />
+    <state x="484" y="68" key="#credit_card_identification" timestamp="1587467753886">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="484" y="68" key="#credit_card_identification/0.0.1536.864@0.0.1536.864" timestamp="1587467753886" />
+    <state x="208" y="342" key="FileChooserDialogImpl" timestamp="1587469160445">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="208" y="342" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587469160445" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1587720210013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587720210013" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1587720210013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587720210013" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1587720210013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587720210013" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1587720210013">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587720210013" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1587719980354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587719980354" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1587719980354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587719980354" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1587719980354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587719980354" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1587719980354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587719980354" />
+    <state x="29" y="86" width="992" height="707" key="SettingsEditor" timestamp="1587718332319">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="29" y="86" width="992" height="707" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587718332319" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Credit_card_identification$credit_card_identification.coverage" NAME="credit_card_identification Coverage Results" MODIFIED="1587720125329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Credit_card_identification$pro_Credit_card_identification.coverage" NAME="pro_Credit_card_identification Coverage Results" MODIFIED="1587718292413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../py/pycharm" />
+  </component>
+</project>
